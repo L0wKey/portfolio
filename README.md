@@ -1,2 +1,2 @@
 # portfolio
-Various projects I work on.
+Various projects I have worked on or am currently working on.
